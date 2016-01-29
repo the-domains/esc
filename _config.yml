@@ -1,0 +1,28 @@
+name: ESC
+favicon: null
+layout_spectrum: 0.7521971052046865
+typography_spectrum: 0.8523032700177282
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1948309566359967
+  lightness: 0.2606027435977012
+  saturation: 0.8080827186349779
+  rhythmicContrast: 0.026237464975565672
+purpose: []
