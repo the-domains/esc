@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Efficiency Support Center]]></title>
+        <description><![CDATA[Efficiency Support Center]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 17:01:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Efficiency Support Center te ayuda a que tu empresa aprenda aceleradamente en un concepto que le llamamos aprendizaje asistido. </p>]]></description>
+            <link>undefined0a7c0063-37ad-4ce5-bc1f-d2acfb53c408/index.html</link>
+            <guid isPermaLink="false">0a7c0063-37ad-4ce5-bc1f-d2acfb53c408</guid>
+            <pubDate>Fri, 29 Jan 2016 17:01:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
