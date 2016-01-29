@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Efficiency Support Center]]></title>
         <description><![CDATA[Efficiency Support Center]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/esc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:01:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 17:04:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/esc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Efficiency Support Center te ayuda a que tu empresa aprenda aceleradamente en un concepto que le llamamos aprendizaje asistido. </p>]]></description>
-            <link>undefined0a7c0063-37ad-4ce5-bc1f-d2acfb53c408/index.html</link>
+            <link>https://thegrid.ai/esc/0a7c0063-37ad-4ce5-bc1f-d2acfb53c408/index.html</link>
             <guid isPermaLink="false">0a7c0063-37ad-4ce5-bc1f-d2acfb53c408</guid>
-            <pubDate>Fri, 29 Jan 2016 17:01:15 GMT</pubDate>
+            <pubDate>Fri, 29 Jan 2016 17:04:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
