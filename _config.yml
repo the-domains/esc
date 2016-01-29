@@ -1,6 +1,6 @@
 name: ESC
 favicon: null
-layout_spectrum: 0.50676
+layout_spectrum: 0.01255
 typography_spectrum: 0.5473
 title: Efficiency Support Center
 cta:
@@ -23,7 +23,7 @@ color:
     - '#f2c7d4'
     - '#f095b0'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 1
   saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
