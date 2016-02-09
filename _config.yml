@@ -1,41 +1,41 @@
-title: Efficiency Support Center
-purpose: []
+typography_spectrum: 0.5473
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.01255
+title: Efficiency Support Center
+purpose: []
 color:
   saturation: 1
   brandStrength: 0.5
-  lightness: 1
+  rhythmicContrast: 0.5
   brandColors:
     - '#0E0E0E'
     - '#FFFFFF'
     - '#B5BEC5'
     - '#888A8F'
     - '#5B5B5B'
-  rhythmicContrast: 0.5
+  lightness: 1
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: ESC
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5473
-layout_spectrum: 0.01255
